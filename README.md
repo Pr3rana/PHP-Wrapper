@@ -1,1 +1,1 @@
-# PHP-Wrapper
+# FusionCharts PHP Wrapper
