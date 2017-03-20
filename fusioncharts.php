@@ -34,7 +34,6 @@
             isset($renderAt) ? $this->constructorOptions['renderAt'] = $renderAt : '';
             isset($dataFormat) ? $this->constructorOptions['dataFormat'] = $dataFormat : '';
             isset($dataSource) ? $this->constructorOptions['dataSource'] = $dataSource : '';
-            //isset($events) ? $this->constructorOptions['events'] = $events : '';
 
             $tempArray = array();
             foreach($this->constructorOptions as $key => $value) {
